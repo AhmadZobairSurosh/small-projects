@@ -1,0 +1,507 @@
+col_1,col_2
+a lot,mucho
+all,todo
+also,también
+and,y
+another,otro
+anyone,alguien
+at,de
+because,porque
+end,fin
+every,cada 
+everyone,todos
+everything,todo
+few,pocos
+for,de 
+how many,cuántos
+how much,cuánto
+how,cómo
+how,cómo
+in,en 
+many,muchos
+same,mismo
+more,más
+much,mucho
+nobody,nadie
+none,ninguno
+nothing,nada
+of,de
+on,de 
+one,uno
+or,o
+other,otro
+others,otros
+really,de verdad 
+some,unos 
+someone,alguien
+something,algo
+such,tal
+that,aquél 
+these,estos
+this,est{aeo}
+those,aquéllos 
+to the,al
+to,a
+too [much],demasiado
+[me] too,también
+very,muy
+what,qué
+which one,cuál
+which ones,cuáles
+which,cual
+who,que
+whom,que
+whose,cuyo
+why,por qué
+with me,conmigo
+with you,contigo
+with,con
+without,sin
+I,yo
+you (singular),tú
+he,él
+she,ella
+we,nosotros
+you (plural),vosotros
+they,ellos
+backpack,mochila
+belt,cinturón
+clothing,ropa
+coat,abrigo
+dress,vestido
+glasses,gafas
+hat,sombrero
+jacket,chaqueta
+pants,pantalones
+purse,cartera
+shirt,camisa
+skirt,falda
+suitcase,maleta
+t-shirt,camiseta
+watch,reloj
+can,pueder
+must,deber
+should,deber
+to be [permanent],ser
+to be [temporary],estar
+to bring,traer
+to buy,comprar
+to call,llamar
+to come,viener
+to cook,cocinar
+to cost,cuestar
+to dance,bailar
+to draw,dibujar
+to drink,beber
+to drive,manejar
+to eat,comer
+to enjoy,disfrutar
+to feel,sentir
+to forget,olvidas
+to get out,salir
+to get up,levantar
+to get,sacar
+to go,ir
+to have,tener
+to help,ayudar
+to join,acompañar
+to know,saber
+to learn,aprender
+to leave,salir
+to like,gustar
+to live,vivir
+to look,buscar 
+to love,amar
+to meet,conocer
+to need,necesitar
+to open,abrir
+to play,jugar
+to raise,levantar
+to read,leer
+to run,correr
+to rush,apurar
+to search,buscar
+to see,ver
+to sell,vender
+to shower,duchar
+to sleep,dormir
+to speak,hablar
+to stand up,levantar
+to start,empiezar
+to study,estudiar
+to swim,nadar
+to take,tomar
+to take|greet,recibir
+to think,pensar
+to travel,viajar
+to understand,comprender
+to use,usar
+to walk,caminar
+to want,querer
+to work,trabajar
+to write,escribir
+angry,enojado
+bad,malo
+big,grande
+bored,aburrido
+busy,ocupado
+cheap,barato
+closed,cerrado
+comfortable,cómodo
+content,contento
+cute,simpático
+delicious,delicioso
+different,diferente
+difficult,difícil
+easy,fácil
+elegant,elegante
+expensive,caro
+favourite,favorito
+fun,divertido
+funny,divertido 
+good,bueno
+happy,contento 
+important,importante
+intelligent,inteligente
+interesting,interesante
+little,bajo 
+modern,moderno
+nervous,nervioso
+new,nuevo
+perfect,perfecto
+pretty,bonito
+ready,listo
+sad,triste
+scary,de miedo
+small,pequeño
+tired,cansado
+united,unido
+well,bien
+his|hers|their,su
+my,mi
+our,nuestro
+your (plural),vuestro
+your (singular),tu
+[living] room,sala
+airport,aeropuerto
+apratment,apartamento
+bank,banco
+bathroom,baño
+beach,playa
+bed,cama
+bedroom ,dormitorio
+behind,detrás de
+bus,autobús
+city,ciudad
+class,clase
+close,cerca
+counter,mostrador
+country,país
+dirrection,dirección
+door,puertas
+factory,fábrica
+far,lejos
+here,acá
+home,casa
+hospital,hospital
+hotel,hotel
+house,casa
+left,izquierda
+market,mercado
+movies,cine
+museum,museo
+nearby,cerca
+next to,al lado de
+office,oficina
+park,parque
+passport,pasaporte
+reservation,reserva
+restaurant,restaurante
+right,derecha
+school,escuela
+seats,asientos
+space,espacio
+state,estados
+station,estación
+store,tienda
+street,calle
+subway,metro
+supermarket,supermercado
+teather,cine
+to <a place>,para
+to where,adónde
+town,pueblo
+train,tren
+under,debajo
+university,universidad
+where to,adónde
+where,dónde
+We give him the apple,Le damos la manzana a él
+The apple is red,La manzana es roja
+It is John’s apple,Es la manzana de John
+I give John the apple,Le doy la manzana a John
+He gives it to John,Él se la da a John
+She gives it to him,Ella se la da a él
+I want to give it to her,Quiero dársela a ella
+I have bought the apple,He comprado la manzana
+I must give it to him,Debo dársela a él
+I’m going to buy it tomorrow,Voy a comprarla mañana
+I can’t eat the apple,No puedo comer la manzana
+Is the apple red?,¿La manzana es roja?
+The apples are red,Las manzanas son rojas
+don't be scared,sin miedo
+excuse me,perdón
+feels like,se siente como 
+how are you?,qué tal? 
+I am sorry,lo siento
+I would like,quisiera
+I'm awake,estoy despierto
+I'm ready,estoy listo
+there is,hay
+to have to,tener que
+what's up?,qué pasa
+himself,se 
+herself,se 
+themselves,se 
+myself,me 
+ourselves,nosotros mismos
+yourself,te 
+yourselves,os
+[ham]burger,hamburguesa
+beans,frijoles
+bottle ,botella
+bread,pan
+cake,pastel
+cheese,queso
+coffee,café
+cup,taza
+dessert,postre
+dish,plato
+drink,bebida
+fish,pescado
+food,comida
+fork,tenedor
+fridge,nevera 
+fried,frita
+glass,vaso
+hunger,hambre
+ice cream,helado
+juice,jugo
+knife,cuchillo
+meat,carne
+milk,leche
+milkshake,batido
+plate,plato
+potato ,patata
+rice,arroz
+salad,ensalada
+salt,sal
+sandwich,sándwich
+soup,sopa
+spoon,cuchara
+sugar,azúcar
+table,mesa
+tomato,tomate
+vegetables,vegetales
+vegetarian,vegetariano
+water,agua
+wine,vino
+0,cero
+1,uno
+2,dos
+3,tres
+4,cuatro
+5,cinco
+6,seis
+7,siete
+8,ocho
+9,nueve
+10,diez
+11,once
+12,doce
+13,trece
+14,catorce
+15,quince
+16,dieciséis
+17,diecisiete
+18,dieciocho
+19,diecinueve
+20,veinte
+21,veintiuno 
+22,veintidós
+23,veintitrés
+24,veinticuatro
+25,veinticinco
+26,veintiséis
+27,veintisiete
+28,veintiocho
+29,veintinueve
+30,treinta
+31,treinta y uno
+32,treinta y dos
+33,treinta y tres
+34,treinta y cuatro
+35,treinta y cinco
+36,treinta y seis
+37,treinta y siete
+38,treinta y ocho
+39,treinta y nueve
+40,cuarenta
+50,cincuenta
+60,sesenta
+70,setenta
+80,ochenta
+90,noventa
+100,ciento
+200,doscientos
+300,trescientos
+400,cuatrocientos
+500,quinientos
+600,seiscientos
+700,setecientos
+800,ochocientos
+900,novecientos
+1000,mil
+first,primero
+half,mitad 
+last,último
+middle,mitad 
+next,próxima 
+number,número
+previous,anterior
+second,segunda
+baby,bebé
+boy,chico
+boyfriend,novio
+brother,hermano
+dad,papá
+daughter,hija
+family,familia
+friend,amigo
+girl,chica
+girlfriend,novia
+grandma,abuela
+grandpa,abuelo
+husband,esposo
+lady,señora
+man,hombre
+miss,señorita
+mom,mamá
+mr.,señor
+ms.,señora
+person,persona
+player,jugadora
+professor,profesor
+secretary,secretario
+sister,hermana
+son,hijo
+student,estudiante
+teacher,maestro
+waiter,camarero
+waitress,camarera
+wife,esposa
+woman,mujer
+afternoon,tardes
+again,otra vez
+always,siempre
+April,abril
+at <hour>,a las
+at what time,a qué hora
+August,agosto
+autumn,otoño
+birthday,cumpleaños
+day,día
+December,diciembre
+fall,otoño
+February,febrero
+Friday,viernes
+holiday,vacaciones
+January,enero
+July,julio
+June,junio
+late,tarde
+March,marzo
+May,mayo
+Monday,lunes
+morning,mañana
+never,nunca
+night,noches
+November,noviembre
+now,ahora
+October,octubre
+often,a menudo
+old,viejo
+Saturday,sábado
+September,se{p}tiembre
+sometimes,a veces
+soon,luego
+spring,primavera
+summer,verano
+Sunday,domingo
+Thursday,jueves
+time,vez
+today,hoy
+tomorrow,mañana
+Tuesday,martes
+until,hasta
+Wednesday,miércoles
+week,semana
+when,cuándo
+winter,invierno
+year,año
+yet,todavia
+young,joven
+black,negro
+blue,azul
+brown,marrón
+gray,gris
+green,verde
+orange,naranja
+purple,morado
+red,tinto 
+white,blanco
+yellow,amarillo
+basketball,baloncesto
+book,libro
+business,negocio
+bye,adiós
+car,carro
+cat,gato
+check,cuenta
+clock,reloj
+computer,computadora
+concert,concierto
+dance,baile
+dog,perro
+email,correo electrónico
+exam,examen
+gift,regalo
+hair,pelo
+hello,hola
+mail,correo
+mascot,mascota
+match,partido
+medical,médico
+medicine,medicina
+message,mensaje
+mistake,error
+money,dinero
+movie,película
+music,música
+name,nombre
+newspaper,periódico
+nice,simpático
+no,no
+party,fiesta
+pen,bolígrafo
+phone,teléfono
+please,por favor
+pool,piscina
+problem,problema
+question,pregunta
+sport,deporte
+sun,sol
+tall,alto
+thank you,gracias
+ticket,boleto
+yes,sí
